@@ -1,6 +1,6 @@
 # NFL Twitter Bot
 ## Project Description 
-This project scrapes Google News for articles related to "NFL" in the last 12 hours. Then selects a random article from that time period to create and send tweet from a user specified Twitter account. 
+This project twitter bot (https://twitter.com/GoogleNfl) scrapes Google News for articles related to "NFL" in the last 12 hours. Then selects a random article from that time period to create and send tweet from a user specified Twitter account. 
 #### Technologies used
 - ```Tweepy``` enables communication with the Twitter API to create and send tweets
 - ```GoogleNews``` scrape and read articles from the Google News feature
