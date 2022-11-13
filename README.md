@@ -5,7 +5,7 @@ This project scrapes Google News for articles related to "NFL" in the last 12 ho
 - ```Tweepy``` enables communication with the Twitter API to create and send tweets
 - ```GoogleNews``` scrape and read articles from the Google News feature
 - ```random``` tell program to pick a random article from Google News
-- ```time``` to keep program running in specific intervals 
+- ```time``` to signal how long the script should "sleep" before running again
 
 ## How to Install and Run
 Most importantly, any user will need to create a Twitter Developer account (https://developer.twitter.com/en/support/twitter-api/developer-account). From there, you can retrieve personal access tokens to link your twitter account. Now just open your favorite editor and install/import the packages listed above. 
