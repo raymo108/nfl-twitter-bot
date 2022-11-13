@@ -15,4 +15,4 @@ Customizable options:
 - ```gn.get_news('x')``` change which category of articles to scrape
 - ```element_info = {``` change which items to actually pull from the scraped article
 - ```tweet_text``` format how the tweet looks and what is included
-- An infinite while loop is used to continously run the script. time.sleep() can be adjusted to change the interval on how long to wait until running the script again
+- An infinite while loop is used to continously run the script. ```time.sleep()``` can be adjusted to change the interval on how long to wait until running the script again
